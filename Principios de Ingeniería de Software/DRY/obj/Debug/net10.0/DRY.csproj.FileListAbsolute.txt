@@ -1,0 +1,14 @@
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\bin\Debug\net10.0\DRY.exe
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\bin\Debug\net10.0\DRY.deps.json
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\bin\Debug\net10.0\DRY.runtimeconfig.json
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\bin\Debug\net10.0\DRY.dll
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\bin\Debug\net10.0\DRY.pdb
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\DRY.GeneratedMSBuildEditorConfig.editorconfig
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\DRY.AssemblyInfoInputs.cache
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\DRY.AssemblyInfo.cs
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\DRY.csproj.CoreCompileInputs.cache
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\DRY.dll
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\refint\DRY.dll
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\DRY.pdb
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\DRY.genruntimeconfig.cache
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\DRY\obj\Debug\net10.0\ref\DRY.dll

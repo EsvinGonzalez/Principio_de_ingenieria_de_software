@@ -1,0 +1,14 @@
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\bin\Debug\net10.0\KISS.exe
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\bin\Debug\net10.0\KISS.deps.json
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\bin\Debug\net10.0\KISS.runtimeconfig.json
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\bin\Debug\net10.0\KISS.dll
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\bin\Debug\net10.0\KISS.pdb
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\KISS.GeneratedMSBuildEditorConfig.editorconfig
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\KISS.AssemblyInfoInputs.cache
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\KISS.AssemblyInfo.cs
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\KISS.csproj.CoreCompileInputs.cache
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\KISS.dll
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\refint\KISS.dll
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\KISS.pdb
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\KISS.genruntimeconfig.cache
+D:\GONZALEZ\Documents\2026 UMG\Ingenieria de Software\Principios de Ingeniería de Software\KISS\obj\Debug\net10.0\ref\KISS.dll
